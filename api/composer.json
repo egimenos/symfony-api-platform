@@ -1,8 +1,9 @@
-{
+{   "name": "egimenos/symfony-api-platform",
+    "description": "coding along with Juan Gonzalez Udemy course",
     "type": "project",
     "license": "proprietary",
     "require": {
-        "php": ">=7.2.5",
+        "php": "^7.4",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "symfony/console": "5.1.*",
